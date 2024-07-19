@@ -27,9 +27,9 @@ jobs:
     - name: Merge TXT Files
       run: python mergefiles.py
       env:
-        URL1: "https://cf.trackerslist.com/best.txt"  # 填写第一个txt文件的URL
-        URL2: "https://github.com/ngosang/trackerslist/raw/master/trackers_best.txt"  # 填写第二个txt文件的URL
-        URL3: "https://github.com/ngosang/trackerslist/raw/master/trackers_best_ip.txt"  # 填写第三个txt文件的URL
+        URL1: "https://cf.trackerslist.com/all.txt"  # 填写第一个txt文件的URL
+        URL2: "https://github.com/ngosang/trackerslist/raw/master/trackers_all.txt"  # 填写第二个txt文件的URL
+        URL3: "https://github.com/ngosang/trackerslist/raw/master/trackers_all_ip.txt"  # 填写第三个txt文件的URL
         Name: "tracker_all.txt"
 
     - name: Commit and Push changes
