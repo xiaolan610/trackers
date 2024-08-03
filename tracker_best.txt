@@ -4,6 +4,8 @@ http://bt.okmp3.ru:2710/announce
 
 http://ipv6.rer.lol:6969/announce
 
+http://nyaa.tracker.wf:7777/announce
+
 http://retracker.x2k.ru:80/announce
 
 http://t.nyaatracker.com:80/announce
@@ -20,13 +22,13 @@ http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
 
-http://tracker.tfile.co:80/announce
-
 http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
 
 https://retracker2.x2k.ru:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -38,11 +40,13 @@ https://tracker.tamersunion.org:443/announce
 
 https://tracker.yemekyedim.com:443/announce
 
+https://tracker1.520.jp:443/announce
+
 https://trackers.mlsub.net:443/announce
 
-udp://bandito.byterunner.io:6969/announce
-
 udp://bt1.archive.org:6969/announce
+
+udp://bt2.archive.org:6969/announce
 
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
 
@@ -62,6 +66,8 @@ udp://opentor.org:2710/announce
 
 udp://opentracker.io:6969/announce
 
+udp://p4p.arenabg.com:1337/announce
+
 udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
@@ -78,17 +84,13 @@ udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.doko.moe:6969/announce
+
+udp://tracker.dump.cl:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
-
-udp://tracker.skyts.net:6969/announce
-
-udp://tracker.theoks.net:6969/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
@@ -102,15 +104,13 @@ udp://tracker3.t-1.org:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
-udp://wepzone.net:6969/announce
-
-udp://z.mercax.com:53/announce
-
 wss://tracker.openwebtorrent.com:443/announceudp://tracker.opentrackr.org:1337/announce
 
 udp://open.tracker.cl:1337/announce
 
 udp://open.demonii.com:1337/announce
+
+udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -118,65 +118,61 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://tracker.tiny-vps.com:6969/announce
-
-udp://explodie.org:6969/announce
+https://tracker.tamersunion.org:443/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://tracker.theoks.net:6969/announce
-
-udp://tracker.dler.org:6969/announce
+udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://run.publictracker.xyz:6969/announce
-
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://opentracker.io:6969/announce
 
-udp://oh.fuuuuuck.com:6969/announce
+udp://explodie.org:6969/announce
 
-https://tracker.tamersunion.org:443/announce
+udp://tracker.theoks.net:6969/announce
 
-udp://wepzone.net:6969/announce
+udp://tracker.dump.cl:6969/announce
 
-udp://ttk2.nbaonlineservice.com:6969/announce
+udp://run.publictracker.xyz:6969/announce
+
+udp://retracker.lanta.me:2710/announce
+
+udp://p4p.arenabg.com:1337/announce
 
 udp://93.158.213.92:1337/announce
 
 udp://186.10.181.37:1337/announce
 
-udp://23.140.248.9:1337/announce
+udp://23.134.88.9:1337/announce
+
+udp://51.222.82.36:6969/announce
 
 udp://185.243.218.213:80/announce
 
-udp://89.234.156.205:451/announce
+udp://91.216.110.53:451/announce
 
 udp://208.83.20.20:6969/announce
 
 udp://83.146.80.73:6969/announce
 
-udp://23.157.120.14:6969/announce
-
-udp://156.234.201.18:80/announce
-
-udp://209.141.59.16:6969/announce
-
-udp://125.227.79.123:6969/announce
+udp://23.153.248.83:6969/announce
 
 udp://109.201.134.183:80/announce
 
-udp://15.204.56.171:6969/announce
-
 udp://83.102.180.21:80/announce
 
-udp://37.27.4.53:6969/announce
+udp://45.9.60.30:6969/announce
 
-udp://83.31.31.29:6969/announce
+udp://23.157.120.14:6969/announce
 
-udp://54.39.48.3:6969/announce
+udp://34.94.76.146:6969/announce
+
+udp://15.204.56.171:6969/announce
+
+udp://185.230.4.150:1337/announce
 
