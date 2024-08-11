@@ -22,7 +22,11 @@ http://www.all4nothin.net:80/announce.php
 
 http://www.wareztorrent.com:80/announce
 
+https://bittorrent.service.gongt.me:59443/announce
+
 https://retracker2.x2k.ru:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -42,8 +46,6 @@ https://tracker1.520.jp:443/announce
 
 https://trackers.mlsub.net:443/announce
 
-udp://bt.ktrackers.com:6666/announce
-
 udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
@@ -56,9 +58,15 @@ udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
+udp://isk.richardsw.club:6969/announce
+
+udp://leet-tracker.moe:1337/announce
+
 udp://new-line.net:6969/announce
 
 udp://open.demonii.com:1337/announce
+
+udp://open.demonoid.ch:6969/announce
 
 udp://open.dstud.io:6969/announce
 
@@ -69,6 +77,8 @@ udp://open.stealth.si:80/announce
 udp://open.tracker.cl:1337/announce
 
 udp://open.tracker.ink:6969/announce
+
+udp://open.u-p.pw:6969/announce
 
 udp://opentor.org:2710/announce
 
@@ -83,6 +93,8 @@ udp://retracker.hotplug.ru:2710/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://seedpeer.net:6969/announce
+
+udp://tamas3.ynh.fr:6969/announce
 
 udp://thetracker.org:80/announce
 
@@ -116,9 +128,7 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.xor.st:6969/announce
 
-udp://tracker1.myporn.club:9337/announce
-
-udp://tracker2.dler.org:80/announce
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://u.peer-exchange.download:6969/announce
 
@@ -136,27 +146,7 @@ udp://exodus.desync.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
-udp://opentracker.io:6969/announce
-
-udp://new-line.net:6969/announce
-
-udp://explodie.org:6969/announce
-
-udp://epider.me:6969/announce
-
-udp://bt1.archive.org:6969/announce
-
-udp://bt.ktrackers.com:6666/announce
-
-https://tracker.tamersunion.org:443/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
-
-udp://tracker2.dler.org:80/announce
-
-udp://tracker1.myporn.club:9337/announce
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.dump.cl:6969/announce
 
@@ -164,33 +154,51 @@ udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
+udp://tracker-udp.gbitt.info:80/announce
+
+udp://tamas3.ynh.fr:6969/announce
+
+udp://opentracker.io:6969/announce
+
+udp://open.u-p.pw:6969/announce
+
+udp://new-line.net:6969/announce
+
+udp://leet-tracker.moe:1337/announce
+
+udp://isk.richardsw.club:6969/announce
+
+udp://explodie.org:6969/announce
+
+udp://epider.me:6969/announce
+
+udp://bt1.archive.org:6969/announce
+
 udp://93.158.213.92:1337/announce
 
-udp://186.10.181.37:1337/announce
-
-udp://23.134.88.9:1337/announce
+udp://23.134.89.9:1337/announce
 
 udp://185.243.218.213:80/announce
 
 udp://208.83.20.20:6969/announce
 
-udp://91.216.110.53:451/announce
+udp://89.234.156.205:451/announce
+
+udp://34.89.51.235:1337/announce
+
+udp://23.153.248.83:6969/announce
 
 udp://109.201.134.183:80/announce
+
+udp://176.31.250.174:6969/announce
 
 udp://45.9.60.30:6969/announce
 
 udp://94.243.222.100:6969/announce
 
+udp://34.89.51.235:6969/announce
+
 udp://23.157.120.14:6969/announce
 
 udp://51.68.174.87:6969/announce
-
-udp://207.241.226.111:6969/announce
-
-udp://125.227.79.123:80/announce
-
-udp://193.42.111.57:9337/announce
-
-udp://23.153.248.83:6969/announce
 
