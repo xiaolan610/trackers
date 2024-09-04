@@ -12,8 +12,6 @@ http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
 
-http://tr.kxmp.cf:80/announce
-
 http://tracker.bt4g.com:2095/announce
 
 http://tracker.electro-torrent.pl:80/announce
@@ -22,9 +20,9 @@ http://tracker.files.fm:6969/announce
 
 http://tracker.ipv6tracker.org:80/announce
 
-http://tracker.renfei.net:8080/announce
-
 http://tracker.tfile.co:80/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker2.itzmx.com:6961/announce
 
@@ -38,8 +36,6 @@ https://pybittrack.retiolus.net:443/announce
 
 https://retracker2.x2k.ru:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 https://tracker.cloudit.top:443/announce
@@ -47,8 +43,6 @@ https://tracker.cloudit.top:443/announce
 https://tracker.gcrenwp.top:443/announce
 
 https://tracker.kuroy.me:443/announce
-
-https://tracker.renfei.net:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
@@ -76,9 +70,13 @@ udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
+udp://isk.richardsw.club:6969/announce
+
 udp://martin-gebhardt.eu:25/announce
 
 udp://moonburrow.club:6969/announce
+
+udp://new-line.net:6969/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
@@ -87,6 +85,8 @@ udp://odd-hd.fr:6969/announce
 udp://open.demonii.com:1337/announce
 
 udp://open.dstud.io:6969/announce
+
+udp://open.publictracker.xyz:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -148,6 +148,8 @@ udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.xor.st:6969/announce
 
+udp://tracker1.myporn.club:9337/announce
+
 udp://tracker2.dler.org:80/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
@@ -168,29 +170,15 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://explodie.org:6969/announce
-
-udp://wepzone.net:6969/announce
-
 udp://opentracker.io:6969/announce
 
-udp://open.tracker.cl:1337/announce
-
-udp://open.dstud.io:6969/announce
+udp://explodie.org:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
 https://tracker.tamersunion.org:443/announce
 
-https://tracker.renfei.net:443/announce
-
-http://tracker1.bt.moack.co.kr:80/announce
-
-http://tracker.renfei.net:8080/announce
-
-http://tracker.ipv6tracker.org:80/announce
-
-http://tr.kxmp.cf:80/announce
+udp://wepzone.net:6969/announce
 
 udp://tracker2.dler.org:80/announce
 
@@ -198,9 +186,23 @@ udp://tracker.0x7c0.com:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
+udp://open.tracker.cl:1337/announce
+
+udp://open.dstud.io:6969/announce
+
+udp://new-line.net:6969/announce
+
+udp://isk.richardsw.club:6969/announce
+
+http://tracker1.bt.moack.co.kr:80/announce
+
+http://tracker.ipv6tracker.org:80/announce
+
+udp://tracker1.myporn.club:9337/announce
+
 udp://93.158.213.92:1337/announce
 
-udp://23.134.90.9:1337/announce
+udp://23.140.248.9:1337/announce
 
 udp://185.243.218.213:80/announce
 
@@ -208,25 +210,29 @@ udp://89.234.156.205:451/announce
 
 udp://109.201.134.183:80/announce
 
+udp://45.9.60.30:6969/announce
+
 udp://23.157.120.14:6969/announce
+
+udp://208.83.20.20:6969/announce
 
 udp://83.6.101.250:6969/announce
 
-udp://45.9.60.30:6969/announce
+udp://23.153.248.83:6969/announce
+
+udp://83.102.180.21:80/announce
 
 udp://186.10.172.11:1337/announce
 
 udp://5.181.156.41:6969/announce
 
-udp://208.83.20.20:6969/announce
+udp://94.243.222.100:6969/announce
+
+udp://34.89.51.235:6969/announce
 
 http://156.234.201.18:80/announce
 
 http://34.89.51.235:80/announce
 
-http://35.227.59.57:80/announce
-
-udp://23.153.248.83:6969/announce
-
-udp://83.102.180.21:80/announce
+udp://193.42.111.57:9337/announce
 
