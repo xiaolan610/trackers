@@ -12,8 +12,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://retracker.x2k.ru:80/announce
 
-http://rfc5746.mywaifu.best:6969/announce
-
 http://t.nyaatracker.com:80/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
@@ -28,8 +26,6 @@ http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.files.fm:6969/announce
 
-http://tracker.ipv6tracker.org:80/announce
-
 http://tracker.k.vu:6969/announce
 
 http://tracker.tfile.co:80/announce
@@ -41,6 +37,8 @@ http://www.all4nothin.net:80/announce.php
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
+
+https://pybittrack.retiolus.net:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -78,6 +76,8 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://moonburrow.club:6969/announce
 
+udp://new-line.net:6969/announce
+
 udp://ns575949.ip-51-222-82.net:6969/announce
 
 udp://odd-hd.fr:6969/announce
@@ -94,6 +94,8 @@ udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
+udp://public.tracker.vraphim.com:6969/announce
+
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
@@ -103,6 +105,8 @@ udp://run.publictracker.xyz:6969/announce
 udp://seedpeer.net:6969/announce
 
 udp://serpb.vpsburti.com:6969/announce
+
+udp://tamas3.ynh.fr:6969/announce
 
 udp://thetracker.org:80/announce
 
@@ -152,21 +156,11 @@ udp://z.mercax.com:53/announce
 
 wss://tracker.openwebtorrent.com:443/announceudp://tracker.opentrackr.org:1337/announce
 
-udp://open.demonii.com:1337/announce
-
 udp://open.stealth.si:80/announce
-
-udp://tracker-udp.gbitt.info:80/announce
-
-udp://explodie.org:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
 https://tracker.tamersunion.org:443/announce
-
-http://tracker.ipv6tracker.org:80/announce
-
-http://tr.kxmp.cf:80/announce
 
 udp://tracker2.dler.org:80/announce
 
@@ -176,49 +170,59 @@ udp://tracker.theoks.net:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
-udp://run.publictracker.xyz:6969/announce
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://opentracker.io:6969/announce
 
-udp://tracker1.myporn.club:9337/announce
+udp://new-line.net:6969/announce
 
-udp://tracker.torrent.eu.org:451/announce
+udp://explodie.org:6969/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
-udp://93.158.213.92:1337/announce
+udp://tamas3.ynh.fr:6969/announce
 
-udp://23.168.232.9:1337/announce
+udp://run.publictracker.xyz:6969/announce
+
+udp://public.tracker.vraphim.com:6969/announce
+
+udp://p4p.arenabg.com:1337/announce
+
+udp://93.158.213.92:1337/announce
 
 udp://185.243.218.213:80/announce
 
-udp://109.201.134.183:80/announce
-
 udp://208.83.20.20:6969/announce
-
-http://35.227.59.57:80/announce
 
 udp://125.227.79.123:80/announce
 
-udp://209.141.59.16:6969/announce
-
 udp://23.153.248.83:6969/announce
 
-udp://15.204.56.171:6969/announce
+udp://109.201.134.183:80/announce
 
 udp://83.102.180.21:80/announce
 
 udp://45.9.60.30:6969/announce
 
-udp://193.42.111.57:9337/announce
+udp://94.243.222.100:6969/announce
 
-udp://89.234.156.205:451/announce
+udp://23.157.120.14:6969/announce
+
+udp://193.42.111.57:9337/announce
 
 udp://176.56.7.44:6969/announce
 
 udp://51.81.222.188:6969/announce
+
+udp://176.31.250.174:6969/announce
+
+udp://15.204.56.171:6969/announce
+
+udp://185.230.4.150:1337/announce
 
