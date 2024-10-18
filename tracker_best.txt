@@ -8,8 +8,6 @@ http://nyaa.tracker.wf:7777/announce
 
 http://open.tracker.ink:6969/announce
 
-http://smurfsoft.com:6969/announce
-
 http://t.nyaatracker.com:80/announce
 
 http://taciturn-shadow.spb.ru:6969/announce
@@ -17,6 +15,8 @@ http://taciturn-shadow.spb.ru:6969/announce
 http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
+
+http://tr.kxmp.cf:80/announce
 
 http://tracker.bittor.pw:1337/announce
 
@@ -96,8 +96,6 @@ udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-udp://public.tracker.vraphim.com:6969/announce
-
 udp://retracker.hotplug.ru:2710/announce
 
 udp://retracker.lanta.me:2710/announce
@@ -111,6 +109,8 @@ udp://serpb.vpsburti.com:6969/announce
 udp://thetracker.org:80/announce
 
 udp://tk2v6.trackerservers.com:8080/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://trackarr.org:6969/announce
 
@@ -128,8 +128,6 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.doko.moe:6969/announce
 
-udp://tracker.dump.cl:6969/announce
-
 udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
@@ -142,11 +140,15 @@ udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
+udp://tracker.theoks.net:6969/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.waaa.moe:6969/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
@@ -160,25 +162,21 @@ udp://open.tracker.cl:1337/announce
 
 udp://open.stealth.si:80/announce
 
+https://tracker.tamersunion.org:443/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
+
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.skyts.net:6969/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://opentracker.io:6969/announce
 
-udp://explodie.org:6969/announce
-
-https://tracker.tamersunion.org:443/announce
-
-udp://tracker.dump.cl:6969/announce
-
-udp://tracker.bittor.pw:1337/announce
-
-udp://tracker.0x7c0.com:6969/announce
-
-udp://retracker01-msk-virt.corbina.net:80/announce
-
-udp://public.tracker.vraphim.com:6969/announce
+udp://open.tracker.ink:6969/announce
 
 udp://open.free-tracker.ga:6969/announce
 
@@ -186,11 +184,15 @@ udp://leet-tracker.moe:1337/announce
 
 udp://isk.richardsw.club:6969/announce
 
+udp://explodie.org:6969/announce
+
 udp://exodus.desync.com:6969/announce
 
-http://tracker.skyts.net:6969/announce
-
 http://tracker.ipv6tracker.org:80/announce
+
+http://tr.kxmp.cf:80/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://93.158.213.92:1337/announce
 
@@ -200,27 +202,23 @@ udp://186.10.170.97:1337/announce
 
 udp://185.243.218.213:80/announce
 
+udp://156.234.201.18:80/announce
+
+udp://91.216.110.53:451/announce
+
+udp://34.89.51.235:1337/announce
+
 udp://109.201.134.183:80/announce
 
 udp://45.9.60.30:6969/announce
 
+udp://35.227.59.57:1337/announce
+
 udp://23.157.120.14:6969/announce
-
-udp://34.94.76.146:6969/announce
-
-udp://23.153.248.83:6969/announce
-
-udp://83.102.180.21:80/announce
-
-udp://51.159.89.93:6969/announce
-
-udp://34.89.51.235:6969/announce
-
-udp://34.89.51.235:1337/announce
 
 udp://208.83.20.20:6969/announce
 
-http://222.84.22.60:6969/announce
+http://35.227.59.57:80/announce
 
-http://34.89.51.235:80/announce
+udp://209.141.59.16:6969/announce
 
