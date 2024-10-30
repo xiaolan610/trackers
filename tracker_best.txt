@@ -4,9 +4,9 @@ http://bt.okmp3.ru:2710/announce
 
 http://ipv6.rer.lol:6969/announce
 
-http://kiryuu-test.mywaifu.best:6969/announce
-
 http://nyaa.tracker.wf:7777/announce
+
+http://open.tracker.ink:6969/announce
 
 http://public.tracker.vraphim.com:6969/announce
 
@@ -28,9 +28,9 @@ http://tracker.electro-torrent.pl:80/announce
 
 http://tracker.ipv6tracker.org:80/announce
 
-http://tracker.tfile.co:80/announce
+http://tracker.opentrackr.org:1337/announce
 
-http://tracker1.bt.moack.co.kr:80/announce
+http://tracker.tfile.co:80/announce
 
 http://www.all4nothin.net:80/announce.php
 
@@ -74,6 +74,8 @@ udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
+udp://ipv4.rer.lol:2710/announce
+
 udp://isk.richardsw.club:6969/announce
 
 udp://leet-tracker.moe:1337/announce
@@ -105,8 +107,6 @@ udp://p2p.publictracker.xyz:6969/announce
 udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.hotplug.ru:2710/announce
-
-udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
@@ -142,13 +142,13 @@ udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
+udp://tracker.qu.ax:6969/announce
+
 udp://tracker.skyts.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
-
-udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
@@ -158,7 +158,7 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://z.mercax.com:53/announce
 
-wss://tracker.openwebtorrent.com:443/announceudp://tracker.opentrackr.org:1337/announce
+wss://tracker.openwebtorrent.com:443/announcehttp://tracker.opentrackr.org:1337/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -168,13 +168,19 @@ udp://open.stealth.si:80/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker-udp.gbitt.info:80/announce
-
 udp://explodie.org:6969/announce
+
+udp://exodus.desync.com:6969/announce
+
+https://tracker.tamersunion.org:443/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.dump.cl:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://opentracker.io:6969/announce
 
@@ -184,23 +190,17 @@ udp://leet-tracker.moe:1337/announce
 
 udp://isk.richardsw.club:6969/announce
 
-udp://exodus.desync.com:6969/announce
-
-https://tracker.tamersunion.org:443/announce
-
 http://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker.ipv6tracker.org:80/announce
 
 http://tr.kxmp.cf:80/announce
 
-udp://tracker.tiny-vps.com:6969/announce
+udp://tracker.qu.ax:6969/announce
 
-udp://tracker.theoks.net:6969/announce
+http://93.158.213.92:1337/announce
 
-udp://93.158.213.92:1337/announce
-
-udp://23.134.88.9:1337/announce
+udp://23.140.248.9:1337/announce
 
 udp://186.10.170.97:1337/announce
 
@@ -208,25 +208,23 @@ udp://185.243.218.213:80/announce
 
 udp://91.216.110.53:451/announce
 
-udp://109.201.134.183:80/announce
-
 udp://23.157.120.14:6969/announce
-
-udp://34.89.91.10:6969/announce
-
-udp://34.94.76.146:1337/announce
-
-udp://45.9.60.30:6969/announce
-
-udp://34.89.91.10:1337/announce
-
-udp://35.227.59.57:6969/announce
 
 udp://208.83.20.20:6969/announce
 
-http://156.234.201.18:80/announce
+udp://34.89.91.10:6969/announce
 
-http://35.227.59.57:80/announce
+udp://35.227.59.57:1337/announce
 
-udp://83.146.104.232:6969/announce
+udp://109.201.134.183:80/announce
+
+udp://45.9.60.30:6969/announce
+
+udp://35.227.59.57:6969/announce
+
+udp://34.94.76.146:6969/announce
+
+http://34.94.76.146:80/announce
+
+http://34.89.91.10:80/announce
 
