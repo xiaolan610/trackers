@@ -18,6 +18,8 @@ http://taciturn-shadow.spb.ru:6969/announce
 
 http://tk.greedland.net:80/announce
 
+http://torrent.hificode.in:6969/announce
+
 http://torrentsmd.com:8080/announce
 
 http://tracker.beeimg.com:6969/announce
@@ -27,8 +29,6 @@ http://tracker.bt4g.com:2095/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
-
-http://tracker.netmap.top:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
@@ -102,6 +102,8 @@ udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.bitcoinindia.space:6969/announce
@@ -166,7 +168,7 @@ udp://wepzone.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
-wss://tracker.openwebtorrent.com:443/announceudp://tracker.opentrackr.org:1337/announce
+wss://tracker.openwebtorrent.com:443/announcehttp://tracker.opentrackr.org:1337/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -178,15 +180,13 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://explodie.org:6969/announce
-
 udp://wepzone.net:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://tracker2.dler.org:80/announce
 
-udp://tracker.tryhackx.org:6969/announce
+udp://tracker1.myporn.club:9337/announce
 
 udp://tracker.srv00.com:6969/announce
 
@@ -196,37 +196,39 @@ udp://tracker.fnix.net:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
+udp://tracker.dump.cl:6969/announce
+
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
-udp://t.overflow.biz:6969/announce
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://public.tracker.vraphim.com:6969/announce
 
-udp://93.158.213.92:1337/announce
+http://93.158.213.92:1337/announce
+
+udp://23.168.232.9:1337/announce
 
 udp://200.111.152.54:1337/announce
 
 udp://185.243.218.213:80/announce
 
-udp://91.216.110.53:451/announce
+udp://89.234.156.205:451/announce
 
 udp://83.31.31.143:6969/announce
 
 udp://51.222.82.36:6969/announce
 
-udp://211.75.205.188:80/announce
+udp://211.75.205.187:80/announce
 
 udp://77.91.85.95:6969/announce
 
 udp://5.255.124.190:6969/announce
 
-udp://60.249.37.20:6969/announce
-
-udp://34.89.91.10:1337/announce
+udp://211.75.210.221:6969/announce
 
 udp://83.102.180.21:80/announce
 
@@ -236,13 +238,13 @@ udp://185.230.4.150:1337/announce
 
 udp://45.9.60.30:6969/announce
 
-udp://34.94.76.146:6969/announce
-
 udp://5.45.69.185:6969/announce
 
 udp://185.216.179.62:25/announce
 
-udp://34.89.91.10:6969/announce
+udp://23.157.120.14:6969/announce
 
 udp://23.163.56.66:6969/announce
+
+udp://176.99.7.59:6969/announce
 
