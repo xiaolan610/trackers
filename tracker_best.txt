@@ -1,3 +1,5 @@
+http://0123456789nonexistent.com:80/announce
+
 http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
@@ -11,8 +13,6 @@ http://lucke.fenesisu.moe:6969/announce
 http://nyaa.tracker.wf:7777/announce
 
 http://open.trackerlist.xyz:80/announce
-
-http://shubt.net:2710/announce
 
 http://tk.greedland.net:80/announce
 
@@ -31,6 +31,8 @@ http://tracker.mywaifu.best:6969/announce
 http://tracker.renfei.net:8080/announce
 
 http://www.all4nothin.net:80/announce.php
+
+http://www.wareztorrent.com:80/announce
 
 https://1.tracker.eu.org:443/announce
 
@@ -116,8 +118,6 @@ udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gigantino.net:6969/announce
 
-udp://tracker.hifimarket.in:2710/announce
-
 udp://tracker.hifitechindia.com:6969/announce
 
 udp://tracker.ololosh.space:6969/announce
@@ -172,9 +172,11 @@ udp://open.stealth.si:80/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://tracker.srv00.com:6969/announce
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.qu.ax:6969/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://opentracker.io:6969/announce
 
@@ -190,19 +192,17 @@ udp://tracker.zupix.online:6969/announce
 
 udp://tracker.wepzone.net:6969/announce
 
+udp://tracker.valete.tf:9999/announce
+
 udp://tracker.tryhackx.org:6969/announce
 
-udp://tracker.theoks.net:6969/announce
+udp://tracker.srv00.com:6969/announce
 
 udp://tracker.skillindia.site:6969/announce
 
 udp://tracker.plx.im:6969/announce
 
 udp://tracker.ololosh.space:6969/announce
-
-udp://tracker.hifitechindia.com:6969/announce
-
-udp://tracker.hifimarket.in:2710/announce
 
 udp://93.158.213.92:1337/announce
 
@@ -212,35 +212,35 @@ udp://185.243.218.213:80/announce
 
 udp://208.83.20.20:6969/announce
 
-udp://77.91.85.95:6969/announce
+udp://209.141.59.16:6969/announce
 
 udp://45.13.119.213:6969/announce
+
+udp://83.102.180.21:80/announce
 
 udp://45.9.60.30:6969/announce
 
 udp://83.6.222.251:6969/announce
 
-udp://54.39.48.3:6969/announce
+udp://51.222.82.36:6969/announce
 
-udp://211.75.205.188:80/announce
+udp://211.75.210.221:80/announce
 
 udp://94.136.190.183:6969/announce
 
+udp://82.67.44.197:9999/announce
+
 udp://135.125.236.64:6969/announce
+
+udp://77.91.85.95:6969/announce
 
 udp://54.36.179.216:6969/announce
 
-udp://35.227.59.57:6969/announce
+udp://34.89.91.10:6969/announce
 
 udp://94.136.190.183:2710/announce
 
 udp://94.136.190.183:1337/announce
 
 udp://209.141.59.25:6969/announce
-
-udp://108.53.194.223:6969/announce
-
-udp://52.58.128.163:6969/announce
-
-udp://211.75.210.221:6969/announce
 
