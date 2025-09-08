@@ -50,6 +50,8 @@ https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.nyacat.pw:443/announce
 
 https://tracker.alaskantf.com:443/announce
@@ -100,6 +102,8 @@ udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://tr4ck3r.duckdns.org:6969/announce
 
 udp://tracker-de-2.cutie.dating:1337/announce
@@ -112,6 +116,8 @@ udp://tracker.cloudbase.store:1333/announce
 
 udp://tracker.dler.com:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.ducks.party:1984/announce
 
 udp://tracker.filemail.com:6969/announce
@@ -122,13 +128,9 @@ udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-udp://tracker.healthcareindia.store:1337/announce
-
 udp://tracker.hifimarket.in:2710/announce
 
 udp://tracker.hifitechindia.com:6969/announce
-
-udp://tracker.ololosh.space:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
@@ -154,9 +156,9 @@ udp://tracker.tvunderground.org.ru:3218/announce
 
 udp://tracker.valete.tf:9999/announce
 
-udp://tracker.zupix.online:1333/announce
+udp://tracker.wepzone.net:6969/announce
 
-udp://tracker.zupix.online:6969/announce
+udp://tracker.zupix.online:1333/announce
 
 udp://tracker2.dler.org:80/announce
 
@@ -164,39 +166,29 @@ udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://udp.tracker.projectk.org:23333/announce
 
+udp://wepzone.net:6969/announce
+
 udp://www.torrent.eu.org:451/announce
 
 wss://tracker.openwebtorrent.com:443/announceudp://tracker.opentrackr.org:1337/announce
-
-udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://explodie.org:6969/announce
+udp://wepzone.net:6969/announce
 
 udp://ttk2.nbaonlineservice.com:6969/announce
 
 udp://tracker2.dler.org:80/announce
 
-udp://tracker.zupix.online:6969/announce
+udp://tracker.wepzone.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://tracker.skillindia.site:6969/announce
-
 udp://tracker.qu.ax:6969/announce
 
-udp://tracker.plx.im:6969/announce
-
-udp://tracker.ololosh.space:6969/announce
-
-udp://tracker.hifitechindia.com:6969/announce
-
 udp://tracker.hifimarket.in:2710/announce
-
-udp://tracker.healthcareindia.store:1337/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -204,39 +196,43 @@ udp://tracker.gigantino.net:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.bittor.pw:1337/announce
 
-udp://93.158.213.92:1337/announce
+udp://tracker-udp.gbitt.info:80/announce
 
-udp://23.168.232.9:1337/announce
+udp://tr4ck3r.duckdns.org:6969/announce
+
+udp://t.overflow.biz:6969/announce
+
+udp://retracker01-msk-virt.corbina.net:80/announce
+
+udp://retracker.lanta.me:2710/announce
+
+udp://93.158.213.92:1337/announce
 
 udp://185.243.218.213:80/announce
 
 udp://208.83.20.20:6969/announce
 
-udp://23.157.120.14:6969/announce
+udp://83.6.222.251:6969/announce
 
 udp://54.39.48.3:6969/announce
 
-udp://211.75.210.221:80/announce
-
-udp://94.136.190.183:6969/announce
+udp://211.75.205.187:80/announce
 
 udp://77.91.85.95:6969/announce
 
 udp://45.13.119.213:6969/announce
 
-udp://54.36.179.216:6969/announce
-
 udp://94.136.190.183:2710/announce
 
-udp://94.136.190.183:1337/announce
+udp://68.193.189.231:6969/announce
 
-udp://209.141.59.25:6969/announce
+udp://211.75.205.188:6969/announce
 
-udp://108.53.194.223:6969/announce
-
-udp://52.58.128.163:6969/announce
+udp://34.94.76.146:1337/announce
 
 udp://109.201.134.183:80/announce
 
@@ -245,4 +241,12 @@ udp://111.90.151.241:6969/announce
 udp://189.79.12.59:6969/announce
 
 udp://83.102.180.21:80/announce
+
+udp://37.235.176.37:2710/announce
+
+udp://62.60.157.92:6969/announce
+
+udp://185.230.4.150:1337/announce
+
+udp://45.9.60.30:6969/announce
 
