@@ -2,8 +2,6 @@ http://0123456789nonexistent.com:80/announce
 
 http://1337.abcvg.info:80/announce
 
-http://bt.okmp3.ru:2710/announce
-
 http://ipv4.rer.lol:2710/announce
 
 http://ipv6.rer.lol:6969/announce
@@ -17,6 +15,8 @@ http://open.trackerlist.xyz:80/announce
 http://shubt.net:2710/announce
 
 http://tk.greedland.net:80/announce
+
+http://torrent.hificode.in:6969/announce
 
 http://torrentsmd.com:8080/announce
 
@@ -73,8 +73,6 @@ udp://1c.premierzal.ru:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://anna.bt.bontal.net:6969/announce
-
-udp://bt.bontal.net:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
@@ -208,9 +206,11 @@ udp://tracker.healthcareindia.store:1337/announce
 
 udp://93.158.213.92:1337/announce
 
-udp://23.134.89.9:1337/announce
+udp://23.134.90.9:1337/announce
 
 udp://185.243.218.213:80/announce
+
+udp://208.83.20.20:6969/announce
 
 udp://23.157.120.14:6969/announce
 
@@ -218,9 +218,9 @@ udp://44.30.4.4:6969/announce
 
 udp://23.175.184.30:23333/announce
 
-udp://51.222.82.36:6969/announce
+udp://54.39.48.3:6969/announce
 
-udp://60.249.37.20:80/announce
+udp://211.75.205.187:80/announce
 
 udp://94.136.190.183:6969/announce
 
@@ -242,7 +242,5 @@ udp://209.141.59.25:6969/announce
 
 udp://52.58.128.163:6969/announce
 
-udp://109.201.134.183:80/announce
-
-udp://177.27.223.186:6969/announce
+udp://211.75.205.189:6969/announce
 
