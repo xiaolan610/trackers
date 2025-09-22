@@ -1,3 +1,5 @@
+http://0123456789nonexistent.com:80/announce
+
 http://1337.abcvg.info:80/announce
 
 http://bt.okmp3.ru:2710/announce
@@ -10,7 +12,7 @@ http://lucke.fenesisu.moe:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://p4p.arenabg.com:1337/announce
+http://open.trackerlist.xyz:80/announce
 
 http://tk.greedland.net:80/announce
 
@@ -33,8 +35,6 @@ http://www.all4nothin.net:80/announce.php
 http://www.wareztorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
-
-https://burmese.app:443/announce
 
 https://torrent.tracker.durukanbal.com:443/announce
 
@@ -78,8 +78,6 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://evan.im:6969/announce
 
-udp://exodus.desync.com:6969/announce
-
 udp://extracker.dahrkael.net:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
@@ -114,9 +112,9 @@ udp://tracker.fnix.net:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
-udp://tracker.hifitechindia.com:6969/announce
+udp://tracker.healthcareindia.store:1337/announce
 
-udp://tracker.ololosh.space:6969/announce
+udp://tracker.hifitechindia.com:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
@@ -132,11 +130,11 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.startwork.cv:1337/announce
 
-udp://tracker.theoks.net:6969/announce
-
 udp://tracker.therarbg.to:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
@@ -166,13 +164,7 @@ udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
 
-udp://exodus.desync.com:6969/announce
-
 udp://explodie.org:6969/announce
-
-https://tracker.tamersunion.org:443/announce
-
-http://p4p.arenabg.com:1337/announce
 
 udp://wepzone.net:6969/announce
 
@@ -186,9 +178,11 @@ udp://tracker.zupix.online:6969/announce
 
 udp://tracker.valete.tf:9999/announce
 
-udp://tracker.therarbg.to:6969/announce
+udp://tracker.tryhackx.org:6969/announce
 
-udp://tracker.theoks.net:6969/announce
+udp://tracker.torrust-demo.com:6969/announce
+
+udp://tracker.therarbg.to:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
@@ -198,7 +192,11 @@ udp://tracker.qu.ax:6969/announce
 
 udp://tracker.plx.im:6969/announce
 
-udp://tracker.ololosh.space:6969/announce
+udp://tracker.hifitechindia.com:6969/announce
+
+udp://tracker.healthcareindia.store:1337/announce
+
+udp://tracker.gmi.gd:6969/announce
 
 udp://93.158.213.92:1337/announce
 
@@ -206,19 +204,23 @@ udp://23.134.88.9:1337/announce
 
 udp://185.243.218.213:80/announce
 
-http://185.230.4.150:1337/announce
+udp://23.157.120.14:6969/announce
 
 udp://44.30.4.4:6969/announce
 
 udp://23.175.184.30:23333/announce
 
-udp://54.39.48.3:6969/announce
+udp://51.222.82.36:6969/announce
 
-udp://211.75.205.187:80/announce
+udp://60.249.37.20:80/announce
 
 udp://94.136.190.183:6969/announce
 
 udp://82.67.44.197:9999/announce
+
+udp://135.125.236.64:6969/announce
+
+udp://144.126.245.19:6969/announce
 
 udp://193.233.161.213:6969/announce
 
@@ -228,15 +230,11 @@ udp://45.13.119.213:6969/announce
 
 udp://54.36.179.216:6969/announce
 
-udp://34.94.76.146:6969/announce
-
 udp://94.136.190.183:1337/announce
 
 udp://209.141.59.25:6969/announce
 
+udp://5.255.124.190:6969/announce
+
 udp://52.58.128.163:6969/announce
-
-udp://211.75.210.221:6969/announce
-
-udp://109.201.134.183:80/announce
 
