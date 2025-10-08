@@ -82,6 +82,8 @@ udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://evan.im:6969/announce
 
+udp://exodus.desync.com:6969/announce
+
 udp://extracker.dahrkael.net:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
@@ -106,8 +108,6 @@ udp://retracker.lanta.me:2710/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
-udp://run.publictracker.xyz:6969/announce
-
 udp://torrentclub.online:54123/announce
 
 udp://tr4ck3r.duckdns.org:6969/announce
@@ -121,8 +121,6 @@ udp://tracker.cloudbase.store:1333/announce
 udp://tracker.dler.com:6969/announce
 
 udp://tracker.ducks.party:1984/announce
-
-udp://tracker.filemail.com:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
@@ -144,11 +142,11 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.startwork.cv:1337/announce
 
+udp://tracker.theoks.net:6969/announce
+
 udp://tracker.therarbg.to:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.torrust-demo.com:6969/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
@@ -157,6 +155,8 @@ udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.valete.tf:9999/announce
 
 udp://tracker.zupix.online:1333/announce
+
+udp://tracker.zupix.online:6969/announce
 
 udp://tracker2.dler.org:80/announce
 
@@ -182,31 +182,31 @@ udp://open-tracker.demonoid.ch:6969/announce
 
 udp://open.stealth.si:80/announce
 
-udp://explodie.org:6969/announce
-
 udp://exodus.desync.com:6969/announce
 
-udp://tracker.srv00.com:6969/announce
-
-udp://tracker.ololosh.space:6969/announce
-
-udp://tracker.bittor.pw:1337/announce
-
-udp://tracker-udp.gbitt.info:80/announce
-
-udp://ns-1.x-fins.com:6969/announce
-
-udp://discord.heihachi.pw:6969/announce
+udp://explodie.org:6969/announce
 
 https://tracker.tamersunion.org:443/announce
 
-http://www.torrentsnipe.info:2701/announce
+udp://yuki.bt.bontal.net:6969/announce
 
-http://tracker810.xyz:11450/announce
+udp://wepzone.net:6969/announce
 
-http://tracker.vanitycore.co:6969/announce
+udp://ttk2.nbaonlineservice.com:6969/announce
 
-http://tracker.sbsub.com:2710/announce
+udp://tracker2.dler.org:80/announce
+
+udp://tracker.zupix.online:6969/announce
+
+udp://tracker.tryhackx.org:6969/announce
+
+udp://tracker.therarbg.to:6969/announce
+
+udp://tracker.theoks.net:6969/announce
+
+udp://tracker.srv00.com:6969/announce
+
+udp://tracker.skillindia.site:6969/announce
 
 udp://93.158.213.92:1337/announce
 
@@ -216,35 +216,35 @@ udp://23.134.88.9:1337/announce
 
 udp://185.243.218.213:80/announce
 
-udp://23.157.120.14:6969/announce
-
-udp://77.91.85.95:6969/announce
-
-udp://34.94.76.146:6969/announce
-
-udp://34.94.76.146:1337/announce
-
-udp://109.201.134.183:80/announce
-
-http://34.94.76.146:2701/announce
-
-http://34.94.76.146:11450/announce
-
-http://34.94.76.146:6969/announce
-
-http://34.94.76.146:2710/announce
-
-http://34.94.76.146:80/announce
-
-http://34.94.76.146:80/announce.php
-
 udp://178.128.94.74:6969/announce
 
 udp://44.30.4.4:6969/announce
 
-udp://54.39.48.3:6969/announce
+udp://51.222.82.36:6969/announce
 
-udp://211.75.205.189:80/announce
+udp://211.75.210.221:80/announce
 
 udp://94.136.190.183:6969/announce
+
+udp://135.125.236.64:6969/announce
+
+udp://193.233.161.213:6969/announce
+
+udp://77.91.85.95:6969/announce
+
+udp://45.13.119.213:6969/announce
+
+udp://54.36.179.216:6969/announce
+
+udp://94.136.190.183:2710/announce
+
+udp://94.136.190.183:1337/announce
+
+udp://209.141.59.25:6969/announce
+
+udp://52.58.128.163:6969/announce
+
+udp://211.75.205.189:6969/announce
+
+udp://109.201.134.183:80/announce
 
