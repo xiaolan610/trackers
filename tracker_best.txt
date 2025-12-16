@@ -76,27 +76,27 @@ https://tracker.zhuqiy.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
+udp://6ahddutb1ucc3cp.ru:6969/announce
+
 udp://anna.bt.bontal.net:6969/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
-udp://discord.heihachi.pw:6969/announce
-
-udp://exodus.desync.com:6969/announce
-
 udp://extracker.dahrkael.net:6969/announce
-
-udp://leet-tracker.moe:1337/announce
 
 udp://martin-gebhardt.eu:25/announce
 
-udp://ns-1.x-fins.com:6969/announce
+udp://ns575949.ip-51-222-82.net:6969/announce
 
 udp://open-tracker.demonoid.ch:6969/announce
 
 udp://open.demonii.com:1337/announce
 
 udp://open.demonoid.ch:6969/announce
+
+udp://open.dstud.io:6969/announce
+
+udp://open.free-tracker.ga:6969/announce
 
 udp://open.stealth.si:80/announce
 
@@ -142,13 +142,9 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.playground.ru:6969/announce
 
-udp://tracker.plx.im:6969/announce
-
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.skyts.net:6969/announce
-
-udp://tracker.srv00.com:6969/announce
 
 udp://tracker.t-1.org:6969/announce
 
@@ -160,39 +156,31 @@ udp://tracker1.myporn.club:9337/announce
 
 udp://tracker1.t-1.org:6969/announce
 
-udp://tracker2.dler.org:80/announce
-
 udp://tracker3.t-1.org:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
-wss://tracker.openwebtorrent.com:443/announceudp://open.demonoid.ch:6969/announce
+wss://tracker.openwebtorrent.com:443/announceudp://tracker.opentrackr.org:1337/announce
+
+udp://open.demonoid.ch:6969/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://tracker.opentrackr.org:1337/announce
+udp://tracker.torrent.eu.org:451/announce
 
 udp://open.stealth.si:80/announce
 
-udp://tracker.torrent.eu.org:451/announce
-
 udp://explodie.org:6969/announce
-
-udp://tracker-udp.gbitt.info:80/announce
-
-udp://tracker2.dler.org:80/announce
 
 udp://tracker1.myporn.club:9337/announce
 
-udp://tracker.srv00.com:6969/announce
-
 udp://tracker.qu.ax:6969/announce
 
-udp://tracker.bittor.pw:1337/announce
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.0x7c0.com:6969/announce
 
-udp://t.overflow.biz:6969/announce
+udp://tracker-udp.gbitt.info:80/announce
 
 udp://run.publictracker.xyz:6969/announce
 
@@ -202,35 +190,37 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://opentracker.io:6969/announce
 
-udp://d40969.acod.regrucolo.ru:6969/announce
+udp://open.free-tracker.ga:6969/announce
+
+udp://open.dstud.io:6969/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
+
+https://tracker.yemekyedim.com:443/announce
+
+https://tr.zukizuki.org:443/announce
+
+udp://93.158.213.92:1337/announce
 
 udp://23.134.88.9:6969/announce
 
 udp://23.134.88.9:1337/announce
 
-udp://93.158.213.92:1337/announce
+udp://91.216.110.53:451/announce
 
 udp://185.243.218.213:80/announce
 
-udp://91.216.110.53:451/announce
-
 udp://23.157.120.14:6969/announce
-
-udp://109.201.134.183:80/announce
-
-udp://211.75.205.188:80/announce
 
 udp://193.42.111.57:9337/announce
 
-udp://195.234.62.166:6969/announce
-
 udp://43.250.54.137:6969/announce
+
+udp://60.249.37.20:6969/announce
 
 udp://23.153.248.128:6969/announce
 
-udp://200.170.109.125:6969/announce
+udp://109.201.134.183:80/announce
 
 udp://80.71.224.126:6969/announce
 
@@ -240,9 +230,13 @@ udp://185.230.4.150:1337/announce
 
 udp://45.9.60.30:6969/announce
 
-udp://176.99.7.59:6969/announce
+udp://185.189.13.108:6969/announce
 
-http://34.94.76.146:2701/announce
+http://34.94.76.146:2710/announce
 
-http://34.94.76.146:6969/announce
+http://211.75.210.221:80/announce
+
+http://167.253.78.20:8080/announce
+
+http://95.217.167.10:6969/announce
 
