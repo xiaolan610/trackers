@@ -16,8 +16,6 @@ http://lucke.fenesisu.moe:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
 
-http://open.tracker.cl:1337/announce
-
 http://tk.greedland.net:80/announce
 
 http://torrentsmd.com:8080/announce
@@ -45,8 +43,6 @@ https://t.213891.xyz:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 
 https://tr.abiir.top:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -80,8 +76,6 @@ udp://extracker.dahrkael.net:6969/announce
 
 udp://martin-gebhardt.eu:25/announce
 
-udp://node02.torrentonline.cc:42069/announce
-
 udp://ns575949.ip-51-222-82.net:6969/announce
 
 udp://open-tracker.demonoid.ch:6969/announce
@@ -90,7 +84,11 @@ udp://open.demonii.com:1337/announce
 
 udp://open.demonoid.ch:6969/announce
 
+udp://open.dstud.io:6969/announce
+
 udp://open.stealth.si:80/announce
+
+udp://open.tracker.cl:1337/announce
 
 udp://opentor.org:2710/announce
 
@@ -120,6 +118,8 @@ udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.dler.com:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.ducks.party:1984/announce
 
 udp://tracker.filemail.com:6969/announce
@@ -144,17 +144,11 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.t-1.org:6969/announce
 
-udp://tracker.theoks.net:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.tryhackx.org:6969/announce
 
-udp://tracker1.myporn.club:9337/announce
-
 udp://tracker1.t-1.org:6969/announce
-
-udp://tracker2.dler.org:80/announce
 
 udp://tracker3.t-1.org:6969/announce
 
@@ -166,23 +160,19 @@ udp://open.demonoid.ch:6969/announce
 
 udp://open.demonii.com:1337/announce
 
-http://open.tracker.cl:1337/announce
-
 udp://open.stealth.si:80/announce
-
-udp://tracker.torrent.eu.org:451/announce
 
 udp://wepzone.net:6969/announce
 
-udp://tracker2.dler.org:80/announce
-
-udp://tracker.theoks.net:6969/announce
+udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.srv00.com:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.filemail.com:6969/announce
+
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
@@ -200,31 +190,31 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://opentracker.io:6969/announce
 
+udp://open.tracker.cl:1337/announce
+
+udp://open.dstud.io:6969/announce
+
 udp://93.158.213.92:1337/announce
 
 udp://23.134.88.9:6969/announce
 
 udp://23.134.88.9:1337/announce
 
-http://186.10.170.56:1337/announce
-
 udp://185.243.218.213:80/announce
 
-udp://89.234.156.205:451/announce
-
-udp://44.30.4.4:6969/announce
-
-udp://211.75.205.188:80/announce
+udp://91.216.110.53:451/announce
 
 udp://77.91.85.95:6969/announce
 
 udp://43.250.54.137:6969/announce
 
+udp://211.75.205.188:6969/announce
+
 udp://34.66.57.33:1337/announce
 
 udp://23.153.248.128:6969/announce
 
-udp://177.172.65.168:6969/announce
+udp://189.18.163.167:6969/announce
 
 udp://80.71.224.126:6969/announce
 
@@ -234,9 +224,13 @@ udp://185.230.4.150:1337/announce
 
 udp://45.9.60.30:6969/announce
 
+udp://186.10.170.56:1337/announce
+
 udp://104.248.85.59:6969/announce
 
 udp://217.156.123.49:1337/announce
 
 udp://185.189.13.108:6969/announce
+
+http://44.30.4.70:6969/announce
 
