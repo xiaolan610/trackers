@@ -38,11 +38,7 @@ https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.nyacat.pw:443/announce
-
-https://tracker.foreverpirates.co:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
 
@@ -53,6 +49,8 @@ https://tracker.kuroy.me:443/announce
 https://tracker.moeblog.cn:443/announce
 
 https://tracker.pmman.tech:443/announce
+
+https://tracker.uraniumhexafluori.de:443/announce
 
 https://tracker.zhuqiy.com:443/announce
 
@@ -86,13 +84,15 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://retracker.lanta.me:2710/announce
 
-udp://run.publictracker.xyz:6969/announce
+udp://t.overflow.biz:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.1h.is:1337/announce
 
 udp://tracker.alaskantf.com:6969/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.bluefrog.pw:2710/announce
 
@@ -126,7 +126,7 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.t-1.org:6969/announce
 
-udp://tracker.theoks.net:6969/announce
+udp://tracker.therarbg.to:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
@@ -160,29 +160,29 @@ udp://tracker.wepzone.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.theoks.net:6969/announce
-
-udp://tracker.srv00.com:6969/announce
-
 udp://tracker.qu.ax:6969/announce
 
 udp://tracker.filemail.com:6969/announce
 
-udp://tracker.corpscorp.online:80/announce
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.alaskantf.com:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://run.publictracker.xyz:6969/announce
+udp://t.overflow.biz:6969/announce
 
 udp://open.dstud.io:6969/announce
 
 udp://leet-tracker.moe:1337/announce
 
-udp://explodie.org:6969/announce
-
 udp://6ahddutb1ucc3cp.ru:6969/announce
+
+https://tracker.zhuqiy.com:443/announce
+
+https://tracker.pmman.tech:443/announce
+
+https://tracker.moeblog.cn:443/announce
 
 udp://93.158.213.92:1337/announce
 
@@ -190,25 +190,29 @@ udp://185.121.168.96:1337/announce
 
 udp://185.243.218.213:80/announce
 
+udp://208.83.20.20:6969/announce
+
 udp://44.30.4.4:6969/announce
 
 udp://44.30.4.70:6969/announce
 
-udp://89.234.156.205:451/announce
-
-udp://147.45.77.75:6969/announce
+udp://91.216.110.53:451/announce
 
 udp://43.250.54.137:6969/announce
 
-udp://34.66.57.33:80/announce
-
-udp://5.75.253.124:6969/announce
+udp://34.66.57.33:1337/announce
 
 udp://109.201.134.183:80/announce
 
-udp://34.66.57.33:1337/announce
+udp://152.249.214.23:6969/announce
+
+udp://212.8.249.30:6969/announce
+
+udp://185.189.13.108:6969/announce
 
 http://34.66.57.33:2701/announce
+
+http://34.66.57.33:2710/announce
 
 http://34.66.57.33:11450/announce
 
@@ -218,9 +222,5 @@ http://209.50.255.93:3218/announce
 
 http://95.217.167.10:6969/announce
 
-http://211.75.205.188:6969/announce
-
-http://140.235.237.23:6969/announce
-
-http://138.124.183.78:6969/announce
+http://211.75.205.189:6969/announce
 
