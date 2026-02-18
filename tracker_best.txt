@@ -38,11 +38,15 @@ https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
 
+https://tr.abir.ga:443/announce
+
 https://tr.nyacat.pw:443/announce
 
 https://tracker.ghostchu-services.top:443/announce
 
 https://tracker.iochimari.moe:443/announce
+
+https://tracker.iperson.xyz:443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -50,19 +54,15 @@ https://tracker.moeblog.cn:443/announce
 
 https://tracker.pmman.tech:443/announce
 
-https://tracker.uraniumhexafluori.de:443/announce
-
 https://tracker.zhuqiy.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://d40969.acod.regrucolo.ru:6969/announce
 
 udp://evan.im:6969/announce
-
-udp://exodus.desync.com:6969/announce
 
 udp://extracker.dahrkael.net:6969/announce
 
@@ -74,11 +74,11 @@ udp://ns575949.ip-51-222-82.net:6969/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://open.dstud.io:6969/announce
-
 udp://open.stealth.si:80/announce
 
 udp://opentor.org:2710/announce
+
+udp://opentracker.io:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
@@ -100,7 +100,7 @@ udp://tracker.corpscorp.online:80/announce
 
 udp://tracker.dler.com:6969/announce
 
-udp://tracker.filemail.com:6969/announce
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
 
@@ -142,17 +142,11 @@ udp://udp.tracker.projectk.org:23333/announce
 
 udp://wepzone.net:6969/announce
 
-udp://zer0day.ch:1337/announce
-
 wss://tracker.openwebtorrent.com:443/announceudp://tracker.opentrackr.org:1337/announce
 
 udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
-
-udp://exodus.desync.com:6969/announce
-
-udp://zer0day.ch:1337/announce
 
 udp://wepzone.net:6969/announce
 
@@ -160,9 +154,9 @@ udp://tracker.wepzone.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.qu.ax:6969/announce
+udp://tracker.srv00.com:6969/announce
 
-udp://tracker.filemail.com:6969/announce
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
@@ -172,11 +166,13 @@ udp://tracker-udp.gbitt.info:80/announce
 
 udp://t.overflow.biz:6969/announce
 
-udp://open.dstud.io:6969/announce
+udp://opentracker.io:6969/announce
 
 udp://leet-tracker.moe:1337/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
+udp://d40969.acod.regrucolo.ru:6969/announce
+
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 https://tracker.zhuqiy.com:443/announce
 
@@ -184,13 +180,13 @@ https://tracker.pmman.tech:443/announce
 
 https://tracker.moeblog.cn:443/announce
 
+https://tracker.iperson.xyz:443/announce
+
 udp://93.158.213.92:1337/announce
 
 udp://185.121.168.96:1337/announce
 
 udp://185.243.218.213:80/announce
-
-udp://208.83.20.20:6969/announce
 
 udp://44.30.4.4:6969/announce
 
@@ -198,29 +194,31 @@ udp://44.30.4.70:6969/announce
 
 udp://91.216.110.53:451/announce
 
-udp://43.250.54.137:6969/announce
+udp://60.249.37.20:6969/announce
 
 udp://34.66.57.33:1337/announce
+
+udp://5.75.253.124:6969/announce
 
 udp://109.201.134.183:80/announce
 
 udp://152.249.214.23:6969/announce
 
-udp://212.8.249.30:6969/announce
+udp://45.9.60.30:6969/announce
 
-udp://185.189.13.108:6969/announce
+udp://176.99.7.59:6969/announce
+
+udp://107.189.2.131:1337/announce
 
 http://34.66.57.33:2701/announce
-
-http://34.66.57.33:2710/announce
 
 http://34.66.57.33:11450/announce
 
 http://34.66.57.33:6969/announce
 
-http://209.50.255.93:3218/announce
+http://167.253.78.20:8080/announce
 
 http://95.217.167.10:6969/announce
 
-http://211.75.205.189:6969/announce
+http://34.66.57.33:2710/announce
 
