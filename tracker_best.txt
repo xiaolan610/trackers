@@ -170,9 +170,9 @@ udp://tracker.srv00.com:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
-udp://tracker.plx.im:6969/announce
-
 udp://tracker.gmi.gd:6969/announce
+
+udp://tracker.corpscorp.online:80/announce
 
 udp://tracker.004430.xyz:1337/announce
 
@@ -190,7 +190,9 @@ udp://leet-tracker.moe:1337/announce
 
 udp://ipv4announce.sktorrent.eu:6969/announce
 
-udp://evan.im:6969/announce
+udp://explodie.org:6969/announce
+
+udp://93.158.213.92:1337/announce
 
 udp://185.121.168.96:1337/announce
 
@@ -200,15 +202,15 @@ udp://44.30.4.4:6969/announce
 
 udp://135.125.236.64:6969/announce
 
-udp://89.234.156.205:451/announce
+udp://209.141.59.16:6969/announce
 
-udp://147.45.77.75:6969/announce
+udp://91.186.213.204:6969/announce
 
 udp://43.250.54.137:6969/announce
 
-udp://54.36.179.216:6969/announce
-
 udp://209.141.59.25:6969/announce
+
+udp://34.66.57.33:80/announce
 
 udp://192.3.130.53:1337/announce
 
@@ -229,6 +231,4 @@ udp://94.23.207.177:6969/announce
 udp://74.119.149.136:6969/announce
 
 udp://107.189.2.131:1337/announce
-
-http://34.66.57.33:2701/announce
 
