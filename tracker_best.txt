@@ -146,7 +146,7 @@ udp://yuptracker-eu.gaijinent.com:27022/announce
 
 wss://tracker.openwebtorrent.com:443/announce
 
-udp://tracker.opentrackr.org:1337/announce
+http://tracker.opentrackr.org:1337/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -160,19 +160,19 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.theoks.net:6969/announce
 
-udp://tracker.corpscorp.online:80/announce
+udp://tracker.qu.ax:6969/announce
 
-udp://tracker.bittor.pw:1337/announce
+udp://tracker.iperson.xyz:6969/announce
+
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.004430.xyz:1337/announce
 
 udp://torrents.tmtime.dev:6969/announce
 
-udp://t.overflow.biz:6969/announce
-
-udp://leet-tracker.moe:1337/announce
-
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
 https://tracker.zhuqiy.com:443/announce
 
@@ -186,7 +186,7 @@ https://tracker.7471.top:443/announce
 
 https://torrents.tmtime.dev:443/announce
 
-udp://93.158.213.92:1337/announce
+http://93.158.213.92:1337/announce
 
 udp://185.121.168.96:1337/announce
 
@@ -198,19 +198,17 @@ udp://91.216.110.53:451/announce
 
 udp://209.141.59.16:6969/announce
 
-udp://34.66.57.33:80/announce
+udp://43.250.54.137:6969/announce
 
-udp://34.66.57.33:1337/announce
+udp://120.78.150.131:6969/announce
+
+udp://211.75.210.221:6969/announce
 
 udp://192.3.130.53:1337/announce
 
-udp://87.106.210.134:6969/announce
-
-udp://189.18.126.49:6969/announce
+udp://185.189.13.108:6969/announce
 
 http://95.217.167.10:6969/announce
-
-http://60.249.37.20:6969/announce
 
 http://140.235.237.23:6969/announce
 
@@ -225,4 +223,6 @@ udp://116.202.177.184:6969/announce
 udp://23.175.184.30:23333/announce
 
 udp://163.5.63.253:6990/announce
+
+udp://148.135.112.164:6969/announce
 
