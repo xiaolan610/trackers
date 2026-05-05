@@ -148,9 +148,11 @@ udp://yuptracker-eu.gaijinent.com:27022/announce
 
 wss://tracker.openwebtorrent.com:443/announce
 
-http://tracker.opentrackr.org:1337/announce
+udp://tracker.opentrackr.org:1337/announce
 
 udp://open.demonii.com:1337/announce
+
+udp://open.tracker.cl:1337/announce
 
 udp://open.stealth.si:80/announce
 
@@ -158,37 +160,35 @@ udp://vito-tracker.space:6969/announce
 
 udp://vito-tracker.duckdns.org:6969/announce
 
+udp://udp.tracker.projectk.org:23333/announce
+
+udp://tracker.torrust-demo.com:6969/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
-udp://tracker.iperson.xyz:6969/announce
+udp://tracker.plx.im:6969/announce
 
-udp://tracker.dler.org:6969/announce
+udp://tracker.gmi.gd:6969/announce
+
+udp://tracker.fnix.net:6969/announce
 
 udp://tracker.004430.xyz:1337/announce
 
+udp://tracker-udp.gbitt.info:80/announce
+
+udp://tr4ck3r.duckdns.org:6969/announce
+
 udp://torrents.tmtime.dev:6969/announce
 
-udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+udp://martin-gebhardt.eu:25/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
+udp://ipv4announce.sktorrent.eu:6969/announce
 
-https://tracker.zhuqiy.com:443/announce
-
-https://tracker.yemekyedim.com:443/announce
-
-https://tracker.pmman.tech:443/announce
-
-https://tracker.nekomi.cn:443/announce
-
-https://tracker.7471.top:443/announce
-
-https://torrents.tmtime.dev:443/announce
-
-http://93.158.213.92:1337/announce
+udp://93.158.213.92:1337/announce
 
 udp://185.121.168.96:1337/announce
 
@@ -196,35 +196,35 @@ udp://185.243.218.213:80/announce
 
 udp://91.98.161.68:6969/announce
 
-udp://91.216.110.53:451/announce
+udp://23.175.184.30:23333/announce
+
+udp://144.126.245.19:6969/announce
+
+udp://89.234.156.205:451/announce
 
 udp://209.141.59.16:6969/announce
 
 udp://43.250.54.137:6969/announce
 
-udp://120.78.150.131:6969/announce
+udp://54.36.179.216:6969/announce
 
-udp://211.75.210.221:6969/announce
+udp://209.141.59.25:6969/announce
+
+udp://5.255.124.190:6969/announce
 
 udp://192.3.130.53:1337/announce
 
-udp://185.189.13.108:6969/announce
+udp://109.201.134.183:80/announce
 
-http://95.217.167.10:6969/announce
+udp://185.146.233.150:6969/announce
 
-http://140.235.237.23:6969/announce
+udp://87.106.210.134:6969/announce
 
-udp://52.211.139.85:27022/announce
+udp://185.216.179.62:25/announce
 
-udp://177.32.238.49:6969/announce
+udp://94.23.207.177:6969/announce
 
-udp://132.226.6.145:6969/announce
+udp://74.119.149.136:6969/announce
 
-udp://116.202.177.184:6969/announce
-
-udp://23.175.184.30:23333/announce
-
-udp://163.5.63.253:6990/announce
-
-udp://148.135.112.164:6969/announce
+udp://107.189.2.131:1337/announce
 
