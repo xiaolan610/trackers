@@ -154,15 +154,13 @@ udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
 
-udp://vito-tracker.space:6969/announce
-
-udp://vito-tracker.duckdns.org:6969/announce
+udp://wepzone.net:6969/announce
 
 udp://udp.tracker.projectk.org:23333/announce
 
-udp://tracker.torrust-demo.com:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
@@ -170,51 +168,55 @@ udp://tracker.qu.ax:6969/announce
 
 udp://tracker.plx.im:6969/announce
 
-udp://tracker.iperson.xyz:6969/announce
-
 udp://tracker.gmi.gd:6969/announce
 
 udp://tracker.fnix.net:6969/announce
 
-udp://tracker.bittor.pw:1337/announce
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.004430.xyz:1337/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-udp://tr4ck3r.duckdns.org:6969/announce
-
 udp://torrents.tmtime.dev:6969/announce
 
+udp://t.overflow.biz:6969/announce
+
 udp://martin-gebhardt.eu:25/announce
+
+udp://ipv4announce.sktorrent.eu:6969/announce
+
+udp://evan.im:6969/announce
+
+udp://93.158.213.92:1337/announce
 
 udp://185.121.168.96:1337/announce
 
 udp://185.243.218.213:80/announce
 
-udp://91.98.161.68:6969/announce
-
-udp://23.175.184.30:23333/announce
+udp://44.30.4.4:6969/announce
 
 udp://89.234.156.205:451/announce
 
-udp://94.250.253.220:6969/announce
+udp://209.141.59.16:6969/announce
+
+udp://147.45.74.251:6969/announce
 
 udp://43.250.54.137:6969/announce
 
 udp://54.36.179.216:6969/announce
 
-udp://120.78.150.131:6969/announce
+udp://209.141.59.25:6969/announce
 
 udp://5.255.124.190:6969/announce
 
-udp://34.66.57.33:1337/announce
+udp://211.75.205.188:6969/announce
 
 udp://192.3.130.53:1337/announce
 
-udp://185.146.233.150:6969/announce
-
 udp://87.106.210.134:6969/announce
+
+udp://189.18.127.21:6969/announce
 
 udp://185.216.179.62:25/announce
 
@@ -222,9 +224,7 @@ udp://94.23.207.177:6969/announce
 
 udp://74.119.149.136:6969/announce
 
-udp://185.189.13.108:6969/announce
+udp://107.189.2.131:1337/announce
 
-http://34.66.57.33:11450/announce
-
-http://211.75.205.188:80/announce
+udp://103.251.166.126:6969/announce
 
