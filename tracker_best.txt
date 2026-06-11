@@ -16,11 +16,19 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.skyts.net:6969/announce
 
+http://tracker.tritan.gg:8080/announce
+
 http://tracker.waaa.moe:6969/announce
 
 http://www.wareztorrent.com:80/announce
 
+https://021912.xyz:443/announce
+
 https://1337.abcvg.info:443/announce
+
+https://banananetwork.qzz.io:443/announce
+
+https://orgtgju.org:443/announce
 
 https://t.213891.xyz:443/announce
 
@@ -28,11 +36,11 @@ https://torrents.tmtime.dev:443/announce
 
 https://tr.abiir.top:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tr.nyacat.pw:443/announce
 
 https://tracker.7471.top:443/announce
+
+https://tracker.anibt.net:443/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -100,7 +108,7 @@ udp://tracker.corpscorp.online:80/announce
 
 udp://tracker.dler.com:6969/announce
 
-udp://tracker.ducks.party:1984/announce
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.flatuslifir.is:6969/announce
 
@@ -126,25 +134,21 @@ udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.wildkat.net:6969/announce
 
+udp://tracker2.dler.org:80/announce
+
 udp://uabits.today:6990/announce
-
-udp://udp.tracker.projectk.org:23333/announce
-
-udp://vito-tracker.duckdns.org:6969/announce
-
-udp://vito-tracker.space:6969/announce
 
 udp://wepzone.net:6969/announce
 
 udp://yuptracker-eu.gaijinent.com:27022/announce
 
-udp://zer0day.ch:1337/announce
-
 wss://tracker.openwebtorrent.com:443/announce
+
+udp://zer0day.ch:1337/announce
 
 udp://tracker.publictracker.xyz:6969/announce
 
-http://tracker.opentrackr.org:1337/announce
+udp://tracker.opentrackr.org:1337/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -152,7 +156,7 @@ udp://open.stealth.si:80/announce
 
 udp://wepzone.net:6969/announce
 
-udp://uabits.today:6990/announce
+udp://udp.tracker.projectk.org:23333/announce
 
 udp://tracker2.dler.org:80/announce
 
@@ -164,13 +168,13 @@ udp://tracker.t-1.org:6969/announce
 
 udp://tracker.qu.ax:6969/announce
 
+udp://tracker.peerfect.org:6969/announce
+
 udp://tracker.opentorrent.top:6969/announce
 
-udp://tracker.filemail.com:6969/announce
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.corpscorp.online:80/announce
-
-udp://tracker.bluefrog.pw:2710/announce
 
 udp://tracker.bittor.pw:1337/announce
 
@@ -180,11 +184,9 @@ udp://tracker.1h.is:1337/announce
 
 udp://tracker.004430.xyz:1337/announce
 
-udp://tracker-udp.gbitt.info:80/announce
+udp://93.158.213.92:1337/announce
 
 udp://93.158.213.92:6969/announce
-
-http://93.158.213.92:1337/announce
 
 udp://185.121.168.96:1337/announce
 
@@ -192,23 +194,23 @@ udp://185.243.218.213:80/announce
 
 udp://44.30.4.4:6969/announce
 
-udp://163.5.63.253:6990/announce
-
-udp://60.249.37.20:80/announce
+udp://211.75.205.189:80/announce
 
 udp://164.152.110.70:6969/announce
 
-udp://91.216.110.53:451/announce
+udp://89.234.156.205:451/announce
 
 udp://107.189.7.165:6969/announce
 
 udp://43.250.54.126:6969/announce
 
+udp://5.135.104.146:6969/announce
+
 udp://81.230.84.201:6969/announce
 
-udp://34.66.57.33:80/announce
+udp://211.75.210.221:6969/announce
 
-udp://88.80.22.67:2710/announce
+udp://34.66.57.33:80/announce
 
 udp://34.66.57.33:1337/announce
 
