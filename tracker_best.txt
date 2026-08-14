@@ -182,13 +182,13 @@ udp://open.stealth.si:80/announce
 
 udp://mail.segso.net:6969/announce
 
-udp://185.121.168.96:1337/announce
-
 udp://93.158.213.92:6969/announce
+
+udp://185.121.168.96:1337/announce
 
 http://93.158.213.92:1337/announce
 
-udp://89.234.156.205:451/announce
+udp://91.216.110.53:451/announce
 
 udp://43.250.54.126:6969/announce
 
@@ -198,11 +198,9 @@ udp://95.217.80.20:6969/announce
 
 udp://95.217.80.22:6969/announce
 
-udp://211.75.205.188:6969/announce
+udp://211.75.210.221:6969/announce
 
-udp://34.66.57.33:80/announce
-
-udp://109.201.134.183:80/announce
+udp://34.66.57.33:1337/announce
 
 udp://152.53.194.103:54123/announce
 
@@ -216,9 +214,11 @@ udp://151.242.104.187:80/announce
 
 udp://65.109.28.33:6969/announce
 
-udp://34.66.57.33:1337/announce
-
 udp://23.157.120.14:6969/announce
 
 udp://107.189.2.131:1337/announce
+
+http://211.75.205.187:80/announce
+
+http://152.53.194.103:2710/announce
 
