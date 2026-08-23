@@ -20,8 +20,6 @@ http://tracker.renfei.net:8080/announce
 
 http://tracker.waaa.moe:6969/announce
 
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
-
 http://www.wareztorrent.com:80/announce
 
 https://004430.xyz:443/announce
@@ -31,6 +29,8 @@ https://1337.abcvg.info:443/announce
 https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tracker.7471.top:443/announce
 
@@ -48,19 +48,21 @@ https://tracker.nekomi.cn:443/announce
 
 https://tracker.pmman.tech:443/announce
 
-https://tracker.yemekyedim.com:443/announce
-
 https://tracker.zhuqiy.com:443/announce
 
 https://tracker1.520.jp:443/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
+udp://edgev.duckdns.org:6969/announce
+
 udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
 udp://explodie.org:6969/announce
+
+udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://ipv6.govt.hu:6969/announce
 
@@ -98,6 +100,8 @@ udp://torrentclub.online:54123/announce
 
 udp://tr3.ysagin.top:2715/announce
 
+udp://tr4ck3r.duckdns.org:6969/announce
+
 udp://tracker-udp.gbitt.info:80/announce
 
 udp://tracker.0x7c0.com:6969/announce
@@ -116,11 +120,7 @@ udp://tracker.cynma.tv:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.farted.net:6969/announce
-
-udp://tracker.filemail.com:6969/announce
 
 udp://tracker.gmi.gd:6969/announce
 
@@ -148,6 +148,8 @@ udp://tracker.teambelgium.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
+udp://udp.tracker.linvk.com:6969/announce
+
 udp://whybother.torrentonline.cc:42069/announce
 
 udp://zer0day.ch:1337/announce
@@ -168,10 +170,6 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.qu.ax:6969/announce
 
-udp://tracker.filemail.com:6969/announce
-
-udp://tracker.dler.org:6969/announce
-
 udp://tracker.auctor.tv:6969/announce
 
 udp://tracker-udp.gbitt.info:80/announce
@@ -184,15 +182,19 @@ udp://t.overflow.biz:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
+udp://ipv4announce.sktorrent.eu:6969/announce
+
 udp://explodie.org:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+udp://edgev.duckdns.org:6969/announce
 
 https://tracker.zhuqiy.com:443/announce
 
-https://tracker.yemekyedim.com:443/announce
+https://tracker.pmman.tech:443/announce
+
+https://tracker.nekomi.cn:443/announce
 
 udp://93.158.213.92:1337/announce
 
@@ -206,31 +208,31 @@ udp://89.234.156.205:451/announce
 
 udp://43.250.54.126:6969/announce
 
-udp://211.75.205.188:6969/announce
-
 udp://109.201.134.183:80/announce
 
 udp://152.53.194.103:54123/announce
 
 udp://152.53.194.103:1984/announce
 
-udp://177.215.66.183:6969/announce
+udp://187.57.131.55:6969/announce
 
 udp://83.102.180.21:80/announce
 
+udp://94.23.207.177:6969/announce
+
 udp://23.157.120.14:6969/announce
 
-udp://208.83.20.20:6969/announce
-
-udp://107.189.2.131:1337/announce
-
-http://211.75.210.221:80/announce
+udp://159.146.99.45:6969/announce
 
 http://152.53.194.103:2710/announce
 
 http://185.126.65.92:6969/announce
 
+http://107.189.2.131:1337/announce
+
 udp://52.211.139.85:27022/announce
+
+udp://211.75.205.187:80/announce
 
 udp://164.152.110.70:6969/announce
 
