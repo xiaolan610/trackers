@@ -30,8 +30,6 @@ https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
 
-https://tr.abir.ga:443/announce
-
 https://tracker.7471.top:443/announce
 
 https://tracker.foreverpirates.co:443/announce
@@ -41,6 +39,8 @@ https://tracker.gcrenwp.top:443/announce
 https://tracker.kuroy.me:443/announce
 
 https://tracker.leechshield.link:443/announce
+
+https://tracker.lenition.de:443/announce
 
 https://tracker.linvk.com:443/announce
 
@@ -53,8 +53,6 @@ https://tracker.zhuqiy.com:443/announce
 https://tracker1.520.jp:443/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
-udp://edgev.duckdns.org:6969/announce
 
 udp://evan.im:6969/announce
 
@@ -116,9 +114,9 @@ udp://tracker.cn.nyaa.net:6969/announce
 
 udp://tracker.corpscorp.online:80/announce
 
-udp://tracker.cynma.tv:6969/announce
-
 udp://tracker.dler.com:6969/announce
+
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.farted.net:6969/announce
 
@@ -148,6 +146,8 @@ udp://tracker.teambelgium.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
+udp://tracker2.dler.org:80/announce
+
 udp://udp.tracker.linvk.com:6969/announce
 
 udp://whybother.torrentonline.cc:42069/announce
@@ -166,9 +166,13 @@ udp://open.demonii.com:1337/announce
 
 udp://open.stealth.si:80/announce
 
+udp://tracker2.dler.org:80/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.qu.ax:6969/announce
+
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.auctor.tv:6969/announce
 
@@ -188,13 +192,9 @@ udp://explodie.org:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://edgev.duckdns.org:6969/announce
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 https://tracker.zhuqiy.com:443/announce
-
-https://tracker.pmman.tech:443/announce
-
-https://tracker.nekomi.cn:443/announce
 
 udp://93.158.213.92:1337/announce
 
@@ -204,9 +204,13 @@ udp://185.121.168.96:1337/announce
 
 udp://151.242.104.187:80/announce
 
+udp://211.75.205.188:80/announce
+
 udp://89.234.156.205:451/announce
 
 udp://43.250.54.126:6969/announce
+
+udp://211.75.210.221:6969/announce
 
 udp://109.201.134.183:80/announce
 
@@ -222,17 +226,13 @@ udp://94.23.207.177:6969/announce
 
 udp://23.157.120.14:6969/announce
 
-udp://159.146.99.45:6969/announce
+udp://107.189.2.131:1337/announce
 
 http://152.53.194.103:2710/announce
 
 http://185.126.65.92:6969/announce
 
-http://107.189.2.131:1337/announce
+http://140.235.237.23:6969/announce
 
 udp://52.211.139.85:27022/announce
-
-udp://211.75.205.187:80/announce
-
-udp://164.152.110.70:6969/announce
 
