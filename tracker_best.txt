@@ -1,7 +1,5 @@
 http://1337.abcvg.info:80/announce
 
-http://bt.okmp3.ru:2710/announce
-
 http://bt1.archive.org:6969/announce
 
 http://bt2.archive.org:6969/announce
@@ -29,8 +27,6 @@ https://1337.abcvg.info:443/announce
 https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -112,6 +108,8 @@ udp://tracker.corpscorp.online:80/announce
 
 udp://tracker.dler.com:6969/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.ducks.party:1984/announce
 
 udp://tracker.farted.net:6969/announce
@@ -178,7 +176,7 @@ udp://tracker.ilibr.org:6969/announce
 
 udp://tracker.ducks.party:1984/announce
 
-udp://tracker.corpscorp.online:80/announce
+udp://tracker.dler.org:6969/announce
 
 udp://tracker.bittor.pw:1337/announce
 
@@ -214,7 +212,7 @@ udp://95.217.80.22:6969/announce
 
 udp://135.125.198.235:1984/announce
 
-udp://34.66.57.33:80/announce
+udp://211.75.205.187:6969/announce
 
 udp://34.66.57.33:1337/announce
 
@@ -226,9 +224,9 @@ udp://152.53.194.103:54123/announce
 
 udp://152.53.194.103:1984/announce
 
-udp://152.243.213.247:6969/announce
-
 udp://180.131.145.175:6969/announce
 
-udp://185.121.168.96:6969/announce
+udp://149.106.106.25:443/announce
+
+udp://51.222.82.36:6969/announce
 
