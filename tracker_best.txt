@@ -156,8 +156,6 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://open.stealth.si:80/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.qu.ax:6969/announce
@@ -168,8 +166,6 @@ udp://tracker.opentrackr.com:6969/announce
 
 udp://tracker.ilibr.org:6969/announce
 
-udp://tracker.farted.net:6969/announce
-
 udp://tracker.dler.org:6969/announce
 
 udp://tracker.corpscorp.online:80/announce
@@ -178,13 +174,17 @@ udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.auctor.tv:6969/announce
 
-udp://tracker.0x7c0.com:6969/announce
-
 udp://t.overflow.biz:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
+udp://open.stealth.si:80/announce
+
 udp://mail.segso.net:6969/announce
+
+udp://ipv4announce.sktorrent.eu:6969/announce
+
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
 udp://93.158.213.92:1337/announce
 
@@ -192,9 +192,7 @@ udp://93.158.213.92:6969/announce
 
 udp://185.121.168.96:1337/announce
 
-udp://151.242.104.187:80/announce
-
-udp://91.216.110.53:451/announce
+udp://89.234.156.205:451/announce
 
 udp://43.250.54.126:6969/announce
 
@@ -204,25 +202,27 @@ udp://95.217.80.20:6969/announce
 
 udp://95.217.80.22:6969/announce
 
-udp://31.56.179.159:6969/announce
-
-udp://211.75.205.187:6969/announce
+udp://211.75.205.188:6969/announce
 
 udp://34.66.57.33:80/announce
 
 udp://34.66.57.33:1337/announce
 
-udp://23.153.248.128:6969/announce
-
 udp://152.243.213.247:6969/announce
 
 udp://83.102.180.21:80/announce
+
+udp://151.242.104.187:80/announce
 
 udp://65.109.28.33:6969/announce
 
 udp://94.23.207.177:6969/announce
 
-udp://23.157.120.14:6969/announce
+http://211.75.205.188:80/announce
 
-http://34.66.57.33:2710/announce
+http://185.126.65.92:6969/announce
+
+http://211.75.205.187:6969/announce
+
+http://140.235.237.23:6969/announce
 
